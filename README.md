@@ -40,7 +40,7 @@ varで設定した変数でデータが変わった時にそのレコードの�
 参照する変数は2つで固定です。1つの場合は同じ値をvar2に設定してください。
 3つ以上の場合はマクロを2回動かして2つ＋1つの用にしてください。
 
-マクロ「dde_cell_format」下記サイトを参照させていただきました。
+マクロ「dde_cell_format」は下記サイトを参照させていただきました。
 
 https://thank-you-blog.org/sas/sasmacro/dde_cell_format/
 
