@@ -1,4 +1,4 @@
-# Ruled-lines-on-Excel--spreadsheet
+# Ruled-lines-on-Excel--spreadsheet-for-SAS
 
 This macro accesses an Excel sheet from within SAS and draws a ruled line.
 The macro draws a line over the record when the data changes with the variable set by var.
